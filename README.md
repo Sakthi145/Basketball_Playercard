@@ -1,5 +1,5 @@
 ### Download and unzip the file 
-            [or]
+            or
 ### Clone the repository
 
 ### Jump into the basketball directory 
