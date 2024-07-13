@@ -2,9 +2,11 @@
 or
 ### Clone the repository
 
-### Jump into the basketball directory 
+### Jump into the directory 
 
-In the project directory, you can run:
+### Open Terminal
+
+### Run the following command
 
 ### `npm start`
 
